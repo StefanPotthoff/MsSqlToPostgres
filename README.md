@@ -2,9 +2,10 @@
 
 This tool migrates an MS SQL database to PostgreSQL seamlessly.
 
-![](/assets/Screenshot.png)
+![](assets/Screenshot.png)
 
-![](/assets/Screenshot2.png)
+
+![](assets/Screenshot2.png)
 
 ## Support
 
@@ -12,8 +13,7 @@ This tool migrates an MS SQL database to PostgreSQL seamlessly.
 
 If this project help you, you can buy me a coffee :)
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?business=StefanPotthoff@gmx.net&currency_code=EUR)
-
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?business=StefanPotthoff@gmx.net¤cy_code=EUR)
 
 ## Built With
 
