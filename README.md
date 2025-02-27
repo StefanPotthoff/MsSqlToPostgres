@@ -2,8 +2,9 @@
 
 This tool migrates an MS SQL database to PostgreSQL seamlessly.
 
+![](/assets/Screenshot.png)
 
-![](assets/20250227_083527_Screenshot.png)
+![](/assets/Screenshot2.png)
 
 ## Support
 
@@ -31,12 +32,13 @@ You can download the latest version in [Releases](/releases)
 
 [](#getting-started)
 
-1. Open your MsSqlToPostgres
-2. Enter the ConnectionString of your MS-SQL DB
-3. Test the MS-SQL Connection
-4. Enter the ConnectionString of your Postgres DB
-5. Test the Postgres Connection
-6. Click "Transfer"
+1. Create an Empty Postgres Db as Target Db
+2. Start MsSqlToPostgres
+3. Enter the ConnectionString of your existing MS-SQL DB
+4. Test the MS-SQL Connection
+5. Enter the ConnectionString of your Target Postgres DB
+6. Test the Postgres Connection
+7. Click "Transfer"
 
 ## Authors
 
@@ -48,4 +50,4 @@ You can download the latest version in [Releases](/releases)
 
 [](#license)
 
-This project is licensed under the MIT License - see the [LICENSE](/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details
