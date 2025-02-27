@@ -82,3 +82,8 @@
 /MsSqlToPostgres/MsSqlToPostgres/obj/project.assets.json
 /MsSqlToPostgres/MsSqlToPostgres/obj/project.nuget.cache
 /MsSqlToPostgres/MsSqlToPostgres/bin/Debug/net8.0-windows
+/MsSqlToPostgres/MsSqlToPostgres/Properties/PublishProfiles
+/MsSqlToPostgres/MsSqlToPostgres/bin/Release/net8.0-windows
+/MsSqlToPostgres/MsSqlToPostgres/obj/Release/net8.0-windows
+/MsSqlToPostgres/MsSqlToPostgres/obj/publish/win-x64
+/MsSqlToPostgres/MsSqlToPostgres/obj/publish/win-x86

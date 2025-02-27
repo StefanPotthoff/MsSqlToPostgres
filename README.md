@@ -26,7 +26,7 @@ If this project help you, you can buy me a coffee :)
 
 [](#releases)
 
-You can download the latest version in [Releases](/releases)
+You can download the latest version in [Releases](https://github.com/StefanPotthoff/MsSqlToPostgres/releases)
 
 ## Getting Started
 
