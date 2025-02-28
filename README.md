@@ -13,7 +13,7 @@ This tool migrates an MS SQL database to PostgreSQL seamlessly.
 
 If this project help you, you can buy me a coffee :)
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?business=StefanPotthoff@gmx.net¤cy_code=EUR)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?business=StefanPotthoff@gmx.net&cy_code=EUR)
 
 ## Built With
 
